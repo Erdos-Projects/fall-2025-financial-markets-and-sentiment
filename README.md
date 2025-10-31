@@ -1,5 +1,6 @@
 
 **Executive Summary:** _Financial Markets and Sentiment_
+
 **Team:** _Francis Westhead, Nihan Akis Man, Morgan Bryant, Anthony Lamini_
 
 **Introduction:**
