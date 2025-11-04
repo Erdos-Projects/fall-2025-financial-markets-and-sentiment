@@ -41,9 +41,9 @@ We conclude that there is no strong influence of daily stock volatility from the
 
 ## **Future Directions**
 
--Our social media data comes exclusively from Bluesky. While our data is representative of all Bluesky posts in our time period, it may not capture the entire trend of social media mentions. Additionally, we were unable to scrape more than one year of data. Accessing larger databases and platforms may make this analysis stronger and relationships (or lack thereof) clearer. 
+- Our social media data comes exclusively from Bluesky. While our data is representative of all Bluesky posts in our time period, it may not capture the entire trend of social media mentions. Additionally, we were unable to scrape more than one year of data. Accessing larger databases and platforms may make this analysis stronger and relationships (or lack thereof) clearer. 
 
--Some preliminary EDA revealed potential patterns between CEO tweets/posts and stock volatility. Namely, there appeared to be some relationship between Elon Musk’s daily tweet count and the Tesla stock’s behavior. Musk’s tweet count also positively correlated with the total number of social media mentions. This relationship may have more insights into social media vs stock volatility not captured in the scope of this project. 
+- Some preliminary EDA revealed potential patterns between CEO tweets/posts and stock volatility. Namely, there appeared to be some relationship between Elon Musk’s daily tweet count and the Tesla stock’s behavior. Musk’s tweet count also positively correlated with the total number of social media mentions. This relationship may have more insights into social media vs stock volatility not captured in the scope of this project. 
 
 - In terms of modelling stock volatility, most of our models were not tuned for financial forecasting. More rigorous and specialized predictors of stock movement may improve modelling capacity. The exception was our GARCH-X model, which is a more robust volatility model, but it poorly modelled stock data with our chosen predictors. 
  
